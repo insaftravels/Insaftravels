@@ -1,6 +1,6 @@
 // ⚠️ App-কে স্থির রাখতে: নতুন deploy app-এ আসবে না।
 // নতুন version চাইলে নিচের CACHE_NAME এর version বাড়াও (v3, v4...) ও app reinstall করো।
-const CACHE_NAME = 'insaf-travels-v10';
+const CACHE_NAME = 'insaf-travels-v11';
 const FILES_TO_CACHE = [
   './index.html',
   './manifest.json'
